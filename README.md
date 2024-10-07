@@ -43,6 +43,8 @@ This repository includes the instructions and scripts for running and understand
 curl http://movies-aio.xx.xxx.xx.xx.nip.io
 ```
 
+
+
 ## Test Istio Service Mesh Features
 * Explore [demo-commands.sh](https://github.com/sidd-harth/aio/blob/master/scripts/demo-commands.sh)
 * Follow the instructions and test the functionalities.
